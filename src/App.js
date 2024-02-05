@@ -2,7 +2,7 @@ import "./App.css";
 import { TodoWrapper } from "./components/TodoWrapper";
 function App() {
   return (
-    <div class="App">
+    <div className="App">
       <TodoWrapper />
     </div>
   );
