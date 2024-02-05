@@ -1,5 +1,5 @@
 import React from "react";
 
-export const edittodo = () => {
+export const EditTodo = () => {
   return <div>edittodo</div>;
 };
